@@ -16,5 +16,3 @@ I am interested in Front-End technologies, which I enjoy learning. That is why I
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" **alt="Less" width="40" height="40"/>
 </div>
-
-[Mikołaj Janiak CV.pdf](https://github.com/HerFx/HerfX/files/10793552/Mikolaj.Janiak.CV.pdf)
