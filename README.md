@@ -1,5 +1,5 @@
 ### Weclome to my github👋
-I am a 3rd year student at the Academy of Economics and Humanities in Warsaw, majoring in Computer Science with a
+I am last year student at the Academy of Economics and Humanities in Warsaw, majoring in Computer Science with a
 specialisation: web applications (engineering). For a long time
 I am interested in Front-End technologies, which I enjoy learning. That is why I am looking for a job that will allow me to deepen my knowledge, as well as gain my first professional experience in this field.
 
