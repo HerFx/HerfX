@@ -1,7 +1,5 @@
 ### Weclome to my github👋
-I am last year student at the Academy of Economics and Humanities in Warsaw, majoring in Computer Science with a
-specialisation: web applications (engineering). For a long time
-I am interested in Front-End technologies, which I enjoy learning. That is why I am looking for a job that will allow me to deepen my knowledge, as well as gain my first professional experience in this field.
+I have completed my engineering studies at the Economic and Humanistic Academy in Warsaw, majoring in Computer Science with a specialization in Internet Applications. I chose this major because the specialized courses allowed me to deepen my knowledge in Front-End development, which I have been interested in for a long time. I am looking for a job that will enable me to acquire new skills and further my education in this field.
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
